@@ -1,1 +1,3 @@
 test for merge
+
+This is branch merge test
